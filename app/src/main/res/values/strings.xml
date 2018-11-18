@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2_5809680019</string>
+    <string name="Title">เซียมซีเสี่ยงทาย</string>
+    <string name="Description">เขย่าเพื่อเสี่ยงทาย(แรงหน่อยนะครับ)</string>
+    <string name="no_thing" />
+    <string name="result">เขย่าเพื่อดูผลการทำนาย</string>
+</resources>
